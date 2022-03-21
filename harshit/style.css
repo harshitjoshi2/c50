@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet;
+}
+h2{
+    color: aquamarine;
+}
+.header{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: pink;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly ;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
